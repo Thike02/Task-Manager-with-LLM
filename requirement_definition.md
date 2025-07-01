@@ -29,7 +29,7 @@
 - タスク入力，LLMによる細分化，ユーザ修正，進捗管理・表示の一連の流れ
 - シンプルかつ直感的なUI設計
 - LLMとユーザ補正の両立設計
-- React（Vite or CRA）＋ Express（Node.js）＋ Supabase＋ OpenAI API
+- Next.js ＋ Vercel + OpenAI API
 
 ## 6. 機能要件
 
